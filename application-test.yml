@@ -1,1 +1,2 @@
-clientParam: git-test-1.0
+demo:
+  version: git-test-1.0
